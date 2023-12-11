@@ -44,7 +44,7 @@ serde_json = "1.0.108"
 snailquote = "0.3.1"
 systemctl = "0.3.1"
 termion = "2.0.3"
-tokio = { version = "1.33", features = ["full"] }
+tokio = { version = "1.35", features = ["full"] }
 
 
 [lib]
